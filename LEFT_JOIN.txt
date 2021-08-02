@@ -1,0 +1,2 @@
+Left Join is the Join where all rows of the first table are taken,
+but only the matching rows of the second table.

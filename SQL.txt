@@ -1,0 +1,4 @@
+a. Result is one row
+b. Result is one row
+c. Result is zero row, but if the query was LIKE "Man%" it would be 2 rows
+d. Result is one row: COUNT = 3

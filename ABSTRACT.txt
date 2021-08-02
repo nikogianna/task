@@ -1,0 +1,3 @@
+Abstract classes are those that contain at least one abstract method 
+and cannot be instantiated. They function as templates for their child 
+classes, which have to implement these abstract methods on their own.
